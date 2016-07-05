@@ -1,4 +1,4 @@
-<p><u>
+<div class = "congr"><p>
 Glory be to God on high,
 and on earth, peace to men of good will.
 We praise thee; we bless thee;
@@ -25,9 +25,10 @@ Thou only art the Lord.
 Thou only, O Jesus Christ,
 together with the Holy Spirit,
 art most high in the glory of God the Father.
-</u></p>
+</p>
 
-<p><u>Amen.</u></p>
+<p>Amen.</p>
+</div>
 
 <?php
 $sm->lnk_cite("Source of the Gloria","http://archive.org/details/a550137400unknuoft");
