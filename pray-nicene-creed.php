@@ -1,13 +1,11 @@
 
 
-<?php $sm->t("The Creed"); ?>
 
-
-<p class = "leader">Together, let us proclaim our faith.</p>
+<p class = "leader" dir = "ltr">Together, let us proclaim our faith.</p>
 
 <?php $sm->note("The term \"Apostolic\" as it appears in the Creed is not a reference to Apostolic Succession, but to Apostolic Tradition."); ?>
 
-<div class = "congr">
+<div class = "congr" dir = "ltr">
 <p>I believe in one God the Almighty Father creator of heaven and earth and of everything visible and invisible.</p>
 <p>And I believe in one Lord Jesus Christ the only son of God, born of the Father before all ages,</p>
 <p>God of God, Light of light, true God of true God,</p>
@@ -31,7 +29,7 @@ $sm->ct_link(array()); ?>
 
 <?php $credits->on(); ?>
 
-<p>
+<p dir = "ltr">
 Thanks to Brother Andrew Blair for translating the
 Creed for this project.
 </p>

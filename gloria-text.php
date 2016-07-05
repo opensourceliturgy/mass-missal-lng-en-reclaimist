@@ -1,4 +1,4 @@
-<div class = "congr"><p>
+<div class = "congr" dir = "ltr"><p>
 Glory be to God on high,
 and on earth, peace to men of good will.
 We praise thee; we bless thee;
